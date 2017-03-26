@@ -11,5 +11,5 @@ s = ['b','c','d','f','g','h','j','k','l','m','n','p','q','r','s','t','v','w','x'
 #output the results
 print('Number of vowels: ', len([1 for x in list(i) if x in g]))
 print('Number of consonants: ', len([1 for x in list(i) if x in s]))
-Enjoy learning new things! Prometheus111 helps you with your studying!
+# Enjoy learning new things! Prometheus111 helps you with your studying!
 # https://github.com/Prometheus111 
