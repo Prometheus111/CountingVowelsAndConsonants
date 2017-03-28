@@ -1,5 +1,4 @@
-# Counting vowels and consonants (Python)
-# by Prometheus111
+# Counting vowels and consonants (Python) by Prometheus111
 
 Counting vowels and consonants in the entered text (Python) \
 \
