@@ -1,7 +1,6 @@
-# Counting vowels and consonants (Python) by Prometheus111
+# Working with texts (C/C++, Python) by Prometheus111
 
-Counting vowels and consonants in the entered text (Python) \
-\
+###Counting vowels and consonants in the entered text (Python)
 This code can help you counting vowels and consonants in the entered text. \
 There is two version of this code: English and Russian. \
 \
