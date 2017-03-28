@@ -1,8 +1,6 @@
-# CountingVowelsAndConsonantsRUS.py
+# CountingVowelsAndConsonantsRU.py
 # by Prometheus111
-
 #подсчёт гласных и согласных букв во введённом тексте
-
 #запрос на ввод и перевод введённых букв в нижний регистр
 i = input('Введите текст: \n').lower()
 #гласные и согласные буквы для русской версии кода
