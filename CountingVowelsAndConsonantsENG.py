@@ -1,11 +1,9 @@
-# CountingVowelsAndConsonantsENG.py
+# CountingVowelsAndConsonantsEN.py
 # by Prometheus111
-
 #counting vowels and consonants in the entered text
-
 #request to enter and translate the entered letters into lowercase
 i = input('Enter the text: \n').lower()
-#arrays for ENG
+#arrays for EN version
 vowels = ['a','e','i','o','u','y']
 consonants = ['b','c','d','f','g','h','j','k','l','m','n','p','q','r','s','t','v','w','x','z']
 #output the results
