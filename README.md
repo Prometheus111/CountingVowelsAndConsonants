@@ -7,6 +7,15 @@ There is two version of this code: English and Russian. \
 Download this repository: 
 Download only source code (EN): 
 Download only source code (RU): \
+
+### Counting character in this string (Python)
+The number of occurrences of the character from the keyboard is counted in this string. \
+There is two version of this code: English and Russian. \
+\
+Download this repository: 
+Download only source code (EN): 
+Download only source code (RU): \
+
 \
 Enjoy learning new things! Prometheus111 helps you with your studying!
 # https://github.com/Prometheus111 
