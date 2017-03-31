@@ -14,4 +14,4 @@ Download source code: https://github.com/Prometheus111/Texts/blob/master/2_SymSt
 \
 Enjoy learning new things! \
 Download repository: https://github.com/Prometheus111/Texts/archive/master.zip 
-# https://github.com/Prometheus111 
+## https://github.com/Prometheus111 
