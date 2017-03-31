@@ -1,4 +1,4 @@
-# 2_SymStrCount.py
+# 2_CharStrCount.py
 # by Prometheus111
 # for a given string, calculate the number of occurrences of a character in it
 # that is read from the keyboard
